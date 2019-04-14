@@ -1,3 +1,6 @@
+### 19.04
+- redis:5.0.4-alpine
+
 ### 18.12
 - redis:5.0.3-alpine
 
