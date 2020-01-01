@@ -1,7 +1,7 @@
 ```
-cd 19.07
-docker build -t kikaitech/redis:19.07 .
+cd 19.12
+docker build -t kikaitech/redis:19.12 .
 
 docker login
-docker push kikaitech/redis:19.07
+docker push kikaitech/redis:19.12
 ```
