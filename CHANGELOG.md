@@ -1,5 +1,6 @@
 ### 19.12
 - redis:5.0.7-alpine
+- Removed `bash` then simplified shell scripts
 
 ### 19.07
 - redis:5.0.5-alpine
