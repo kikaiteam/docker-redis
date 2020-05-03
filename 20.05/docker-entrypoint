@@ -1,0 +1,3 @@
+#!/bin/sh
+export REDIS_PASSWORD="`cat $REDIS_PASSWORD_FILE`"
+exec "$@"
