@@ -1,3 +1,6 @@
+### 20.09
+- redis:6.0.8-alpine
+
 ### 20.07
 - redis:6.0.6-alpine
 
